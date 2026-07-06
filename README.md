@@ -1,7 +1,7 @@
 <h2>📈 Average Final Grade by Gender</h2>
 
 <p align="center">
-  <img src="screenshots/04_gender_performance.png" alt="Gender Performance" width="750"/>
+  <img src="screenshots/├── 04_gender_performance.png" alt="Gender Performance" width="750"/>
 </p>
 
 <h2>🥧 Pass vs Fail</h2>
