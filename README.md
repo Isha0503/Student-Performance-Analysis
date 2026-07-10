@@ -101,7 +101,9 @@ streamlit run app.py
 ## 📊 Dashboard Preview
 
 
-"C:\Users\Loq\Downloads\screencapture-localhost-8501-2026-07-10-07_03_53.png"
+<p align="center">
+  <img src="screenshots/dashboard.png" alt="Student Dashboard" width="900"/>
+</p>
 
 Example:
 
